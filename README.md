@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 https://gh-stats-gen.vercel.app/
 -->
 
-<img height="180em" width=400 src='https://github-readme-stats.vercel.app/api?username=GrayKemy&theme=algolia&show_icons=true&hide_border=true&count_private=true' />  <img height="180em" width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=GrayKemy&theme=algolia&show_icons=true&hide_border=true&layout=compact' />
+<img height="180em" width=400 src='https://github-readme-stats.vercel.app/api?username=GrayKemy&theme=prussian&show_icons=true&hide_border=true&count_private=true' />  <img height="180em" width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=GrayKemy&theme=prussian&show_icons=true&hide_border=true&layout=compact' />
 
 
