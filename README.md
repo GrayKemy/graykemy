@@ -64,10 +64,19 @@ https://gh-stats-gen.vercel.app/
 <img height="180em" width=400 src='https://github-readme-stats.vercel.app/api?username=GrayKemy&theme=prussian&show_icons=true&hide_border=true&count_private=true&include_all_commits=true' />
 
 ![GrayKemy's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrayKemy\&include_all_commits=true&rank_icon=github&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=GrayKemy&theme=prussian&show_icons=true&hide_border=true&layout=compact' />
+<img height="180em" width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=GrayKemy&theme=prussian&show_icons=true&hide_border=true&count_private=true' />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrayKemy\&layout=compact&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 -->
 
-![GrayKemy's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrayKemy\&include_all_commits=true&rank_icon=github&theme=prussian&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrayKemy\&layout=compact&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+
+
+<img height="180em" width=400 src='https://github-readme-stats.vercel.app/api?username=GrayKemy&rank_icon=github&theme=prussian&show_icons=true&hide_border=true&count_private=true&include_all_commits=true' />
+
+
+
 
 
 
