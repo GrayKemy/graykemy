@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+## my github stats
+## Stats Available
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=GrayKemy&theme=algolia&show_icons=true&hide_border=true&layout=compact' />
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=GrayKemy&theme=algolia&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=GrayKemy&theme=algolia&hide_border=true' />
+
+https://gh-stats-gen.vercel.app/
+-->
+
+📈 ## Stats Available
+
+![GrayKemy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrayKemy&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+
+![GrayKemy's Stats](https://github-readme-stats.vercel.app/api?username=GrayKemy&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+![GrayKemy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GrayKemy&theme=algolia&hide_border=true)
+
+
