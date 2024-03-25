@@ -72,9 +72,10 @@ https://gh-stats-gen.vercel.app/
 -->
 
 
-
+### Hi there 👋
+<!--
 <img height="180em" width=400 src='https://github-readme-stats.vercel.app/api?username=GrayKemy&rank_icon=github&theme=prussian&show_icons=true&hide_border=true&count_private=true&include_all_commits=true' />
-
+-->
 
 
 
